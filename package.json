@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "history": "ccap/history#3.3.0-ccap1",
+    "react": "^15.0.0",
+    "react-router": "3.0.2"
+  },
+  "flat": true
+}
